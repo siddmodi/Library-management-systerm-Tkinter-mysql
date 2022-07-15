@@ -1,4 +1,4 @@
-# Library-management-systerm-Tkinter-mysql-
+# Library-management-system-Tkinter-mysql-
 
 Create a user interface **GUI** of library management system using **tkinter** and **python** connected to **mysql database**.There are 4 portion/slots 
 
